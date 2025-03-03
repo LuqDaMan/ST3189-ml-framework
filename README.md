@@ -30,6 +30,16 @@ The framework is built using a modular architecture with the following key compo
 └── plots/ # Generated plots directory 
 ```  
             
+## Installation
+
+To install the required dependencies, run:
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install all the necessary packages.
+
 ## Configuration
 
 The framework uses a hierarchical configuration system defined in `config.py`. The main configuration components include:
