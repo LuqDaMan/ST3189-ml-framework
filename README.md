@@ -16,6 +16,7 @@ The framework is built using a modular architecture with the following key compo
 
 ## Project Structure
 
+```
 ├── src/
 │ ├── config.py # Configuration management
 │ ├── data_preprocessing.py # Data preprocessing pipeline
@@ -26,7 +27,8 @@ The framework is built using a modular architecture with the following key compo
 │ ├── logger.py # Logging system
 │ └── main.py # Main entry point
 ├── logs/ # Log files directory
-└── plots/ # Generated plots directory   
+└── plots/ # Generated plots directory 
+```  
             
 ## Configuration
 
